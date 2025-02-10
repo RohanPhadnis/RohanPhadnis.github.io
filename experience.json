@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Software Engineer Intern",
+        "company": "TechCorp",
+        "start_date": "June 2023",
+        "end_date": "August 2023",
+        "location": "Remote",
+        "notes": [
+            "Developed a new API endpoint that improved data retrieval speed by 30%",
+            "Worked with a team of 5 engineers to migrate legacy code to a modern stack",
+            "Implemented unit tests that increased code coverage by 20%"
+        ]
+    },
+    {
+        "title": "Research Assistant",
+        "company": "University Labs",
+        "start_date": "January 2022",
+        "end_date": "May 2022",
+        "location": "Atlanta, GA",
+        "notes": [
+            "Conducted research on distributed systems",
+            "Published a paper on fault tolerance in cloud environments",
+            "Presented findings at a university seminar"
+        ]
+    }
+]
+

@@ -1,0 +1,41 @@
+body {
+	background-color: #121212;
+    color: white;
+}
+
+
+.custom-jumbotron {
+	background-color: #1e1e1e;
+	color: rgb(255, 255, 255);
+	padding: 2rem;
+	border-radius: 10px;
+}
+
+
+.languages-container {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr); /* 8 icons per row */
+  gap: 10px;
+  padding: 20px;
+}
+
+.language-item {
+  text-align: center;
+}
+
+.language-item img {
+  width: 64px;
+  height: 64px;
+}
+
+.language-item label {
+  display: block;
+  margin-top: 5px;
+}
+
+
+.project-image {
+	width: auto;
+	height: 250px;
+	margin-bottom: 10px;
+}
